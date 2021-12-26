@@ -1,0 +1,2 @@
+class MyTimeline < ApplicationRecord
+end
